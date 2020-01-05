@@ -1,6 +1,6 @@
 Django~=1.9.13
 django-crispy-forms==1.6.0
-djangorestframework==3.3.3
+djangorestframework==3.9.1
 Pillow==5.2.0
 gunicorn
 whitenoise==3.3.1
